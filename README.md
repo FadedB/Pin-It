@@ -29,7 +29,8 @@ Hovering over a pinned images shows additional controls:
 
 ### System Tray
 If your operating system supports it, when you close the main window, it'll sit in your system tray. From here you can perform the same actions you can from the main window. You can also force quit the program through this.
+
 ![image](https://github.com/user-attachments/assets/980e51c6-305e-4b20-83e4-618ca4f03a66)
 
 ## Thanks for checking this out!
-FadedB
+- FadedB
