@@ -1,20 +1,33 @@
 # Pin-It!
 A simple program that allows you to pin screenshots to the top of the screen.
 
+![image](https://github.com/user-attachments/assets/08a73c7e-b33e-4ba6-ae6a-6ad1f03a78a5)
+
 ## Features
 - Pin screenshots to be on top of every window.
 - Resize and move pinned images and remove using simple mouse controls.
 
 ## Usage
 ### Creating a Pinned Image
-1. When the main window is open, simply press "Pin Something" to start selecting something.
+1. While the main window is open, simply press "From Screen" to start selecting a region from the screen to pin.
 2. Drag click anywhere on the screen to select a region to pin.
 3. That's it! A pinned image is created in the same location as the region.
+4. You can also pin images from your clipboard, just press "From Clipboard" instead.
 
 ### Pinned Image Controls
-- You may move a pinned image around by holding click and dragging the pinned image.
-- You may scale a pinned image to be bigger or smaller by using the scroll wheel (or touchpad equivalents).
-- You may remove a pinned image by right clicking on an image.
+- **Move** a pinned image around by holding click and dragging the pinned image.
+- **Scale** a pinned image to be bigger or smaller by using the scroll wheel (or touchpad equivalents).
+- **Remove** a pinned image by right clicking on an image.
+
+Hovering over a pinned images shows additional controls:
+- **Copy** a pinned image to your clipboard by pressing the left most button.
+- **Reset** a pinned image to it's original location and size.
+
+![image](https://github.com/user-attachments/assets/f9b6e845-0d96-445c-8006-66ee1230dc3d)
 
 ### System Tray
 If your operating system supports it, when you close the main window, it'll sit in your system tray. From here you can perform the same actions you can from the main window. You can also force quit the program through this.
+![image](https://github.com/user-attachments/assets/980e51c6-305e-4b20-83e4-618ca4f03a66)
+
+## Thanks for checking this out!
+FadedB
