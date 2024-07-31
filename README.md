@@ -1,11 +1,11 @@
 # Pin-It!
-A simple program that allows you to pin screenshots to the top of the screen.
+A small program that allows you to pin images to be above all windows.
 
 ![image](https://github.com/user-attachments/assets/8e66f0a6-c46c-44d8-b534-7ffc5e55bcde)
 
 ## Features
 - Pin screenshots to be on top of every window.
-- Resize and move pinned images and remove using simple mouse controls.
+- Resize, move and remove pinned images using simple mouse controls.
 
 ## Usage
 ### Creating a Pinned Image
@@ -22,8 +22,8 @@ A simple program that allows you to pin screenshots to the top of the screen.
 - **Remove** a pinned image by right clicking on an image.
 
 Hovering over a pinned images shows additional controls:
-- **Copy** a pinned image to your clipboard by pressing the left most button.
-- **Reset** a pinned image to it's original location and size.
+- **Copy** a pinned image to your clipboard by pressing the leftmost button.
+- **Reset** a pinned image to its original location and size.
 
 ![image](https://github.com/user-attachments/assets/f9b6e845-0d96-445c-8006-66ee1230dc3d)
 
@@ -33,4 +33,4 @@ If your operating system supports it, when you close the main window, it'll sit 
 ![image](https://github.com/user-attachments/assets/980e51c6-305e-4b20-83e4-618ca4f03a66)
 
 ## Thanks for checking this out!
-- FadedB
+-FadedB
