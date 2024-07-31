@@ -1,7 +1,7 @@
 # Pin-It!
 A simple program that allows you to pin screenshots to the top of the screen.
 
-![image](https://github.com/user-attachments/assets/08a73c7e-b33e-4ba6-ae6a-6ad1f03a78a5)
+![image](https://github.com/user-attachments/assets/8e66f0a6-c46c-44d8-b534-7ffc5e55bcde)
 
 ## Features
 - Pin screenshots to be on top of every window.
@@ -13,6 +13,8 @@ A simple program that allows you to pin screenshots to the top of the screen.
 2. Drag click anywhere on the screen to select a region to pin.
 3. That's it! A pinned image is created in the same location as the region.
 4. You can also pin images from your clipboard, just press "From Clipboard" instead.
+
+![image](https://github.com/user-attachments/assets/08a73c7e-b33e-4ba6-ae6a-6ad1f03a78a5)
 
 ### Pinned Image Controls
 - **Move** a pinned image around by holding click and dragging the pinned image.
