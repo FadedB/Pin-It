@@ -7,6 +7,9 @@ A small program that allows you to pin images to be above all windows.
 - Pin screenshots to be on top of every window.
 - Resize, move and remove pinned images using simple mouse controls.
 
+## Requirements
+- You'll need at least Java 17 installed.
+
 ## Usage
 ### Creating a Pinned Image
 1. While the main window is open, simply press "From Screen" to start selecting a region from the screen to pin.
