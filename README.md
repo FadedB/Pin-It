@@ -1,4 +1,4 @@
-# Pin-It!
+# 📌 Pin-It!
 A small program that allows you to pin images to be above all windows.
 
 ![image](https://github.com/user-attachments/assets/8e66f0a6-c46c-44d8-b534-7ffc5e55bcde)
