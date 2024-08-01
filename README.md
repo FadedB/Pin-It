@@ -8,7 +8,8 @@ A small program that allows you to pin images to be above all windows.
 - Resize, move and remove pinned images using simple mouse controls.
 
 ## Requirements
-- You'll need at least Java 17 installed.
+You'll need at least Java 8 installed.
+https://www.java.com/en/download/
 
 ## Usage
 ### Creating a Pinned Image
